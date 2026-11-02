@@ -1,0 +1,18 @@
+step,rows_affected
+columns cast from text to integer / real / dates,32
+missing agent tokens (NULL = no agent),16340
+missing company tokens (NULL = no company),112593
+missing countries set to Unknown,488
+missing children set to 0 (flagged),4
+country code CN standardised to CHN,1279
+meal Undefined merged into No meal package,1169
+Undefined market segment / channel relabelled,5
+flag: zero guests,180
+flag: zero nights,715
+flag: adr zero or negative,1960
+"flag: adr above 1,000",1
+flag: extreme party size,15
+flag: repeat-guest field contradicts history,6827
+flag: check-out date does not match stay,27
+rows that are not valid stays (any flag),1995
+exact duplicate rows flagged,31994

@@ -1,0 +1,9 @@
+grouping,value,bookings,cancel_pct
+Car parking space requested,No,80083,30.0
+Car parking space requested,Yes,7313,0.0
+Booking was changed,No,71494,30.2
+Booking was changed,Yes,15902,15.5
+Room type changed at check-in,No,74287,31.5
+Room type changed at check-in,Yes,13109,4.7
+Has previous cancellation,No,85711,26.7
+Has previous cancellation,Yes,1685,67.9

@@ -1,0 +1,7 @@
+top_n_agents,bookings_of_nth_agent,cumulative_pct_of_agent_bookings
+1,28759,38.2
+3,3349,60.0
+5,2779,68.1
+10,1117,77.2
+20,345,84.8
+50,129,92.8

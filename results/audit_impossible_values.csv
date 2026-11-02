@@ -1,0 +1,8 @@
+issue,rows
+bookings with zero guests,180
+bookings with zero nights,715
+adr = 0 (free stay),1959
+adr < 0 (negative rate),1
+"adr > 1,000",1
+more than 10 adults,12
+stays over 30 nights,24

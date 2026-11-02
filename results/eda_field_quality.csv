@@ -1,0 +1,8 @@
+problem,pct_of_rows
+Exact duplicate rows,26.8
+Repeat-guest field contradicts history,5.7
+Rate is zero or negative,1.6
+Zero nights recorded,0.6
+Country missing,0.4
+Zero guests recorded,0.2
+Check-out date does not match stay,0.0

@@ -1,0 +1,27 @@
+check_name,expected,actual,status
+rows_preserved (raw = clean),119390,119390,PASS
+row_id_is_unique,119390,119390,PASS
+every_raw_row_present_in_clean,0,0,PASS
+no_null_in_key_columns,0,0,PASS
+hotel_in_allowed_set,0,0,PASS
+is_canceled_is_0_or_1,0,0,PASS
+status_agrees_with_is_canceled,0,0,PASS
+arrival_dates_are_valid_iso,0,0,PASS
+arrival_dates_within_expected_window (Jul 2015 - Aug 2017),0,0,PASS
+booking_date_not_after_arrival,0,0,PASS
+cancellation_date_not_after_arrival,0,0,PASS
+total_nights = weekend + week nights,0,0,PASS
+total_guests = adults + children + babies,0,0,PASS
+country_is_iso3_or_unknown,0,0,PASS
+missing_countries_match_raw,488,488,PASS
+meal_plan_in_allowed_set,0,0,PASS
+market_segment_has_no_undefined,0,0,PASS
+deposit_type_in_allowed_set,0,0,PASS
+customer_type_in_allowed_set,0,0,PASS
+missing_agents_match_raw,16340,16340,PASS
+imputed_children_match_raw,4,4,PASS
+zero_guest_flag_matches_independent_count,180,180,PASS
+valid_stays_have_positive_rate_guests_nights,0,0,PASS
+booking_value = adr x nights for valid stays,0,0,PASS
+duplicate_flags_match_independent_count,31994,31994,PASS
+unique_view_row_count,87396,87396,PASS

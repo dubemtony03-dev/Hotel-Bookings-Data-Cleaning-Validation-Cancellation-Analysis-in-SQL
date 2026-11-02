@@ -1,0 +1,25 @@
+hotel,month,stays,median_adr
+City Hotel,1,1909,80.3
+City Hotel,2,2555,85.0
+City Hotel,3,3408,88.1
+City Hotel,4,3273,109.2
+City Hotel,5,3591,123.4
+City Hotel,6,3413,117.9
+City Hotel,7,3756,116.1
+City Hotel,8,4375,119.0
+City Hotel,9,3070,115.0
+City Hotel,10,2975,104.4
+City Hotel,11,2113,85.0
+City Hotel,12,1942,87.5
+Resort Hotel,1,1636,45.0
+Resort Hotel,2,2005,49.0
+Resort Hotel,3,2139,55.0
+Resort Hotel,4,2118,75.0
+Resort Hotel,5,2190,73.1
+Resort Hotel,6,1893,103.7
+Resort Hotel,7,2960,148.4
+Resort Hotel,8,3110,182.0
+Resort Hotel,9,1850,90.0
+Resort Hotel,10,2142,59.0
+Resort Hotel,11,1689,47.4
+Resort Hotel,12,1632,54.4

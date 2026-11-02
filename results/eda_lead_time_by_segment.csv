@@ -1,0 +1,7 @@
+market_segment,bookings,avg_lead_days,avg_lead_cancelled,avg_lead_kept
+Online TA,51618,80.0,103.0,67.0
+Offline TA/TO,13889,106.0,135.0,101.0
+Direct,11804,49.0,71.0,45.0
+Groups,4942,148.0,182.0,135.0
+Corporate,4212,16.0,32.0,14.0
+Complementary,702,14.0,18.0,13.0
